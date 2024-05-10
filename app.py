@@ -74,4 +74,4 @@ num_bees = 15
 max_epochs = 500
 
 # Ejecutar el algoritmo de abejas
-bee_algorithm(min_val, max_val, num_bees, max_epochs)
+bee_algorithm(min_val, max_val, num_bees,max_epochs)
